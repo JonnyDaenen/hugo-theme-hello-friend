@@ -22,6 +22,7 @@ TEMPLATE:
 - https://felixleger.com/ - **Félix Léger** (Sofware Developer and DevOps)
 - https://gabrielacaesar.com/ - **Gabriela Caesar** (Data journalist)
 - https://guilhermesteves.dev/ - **Guilherme Esteves** (Software Engineer, Writer, Speaker)
+- https://hesec.de - **Patrick Hener** (Security Researcher, Pentester and Coder)
 - https://ilya-lesikov.com - **Ilya Lesikov** (DevOps, SRE)
 - https://imgalone.com/ - **Iancu makes games alone** (Indie Game Dev)
 - https://jonathan.rico.live/ - **Jonathan Rico** (Electronics Engineer)
@@ -33,3 +34,4 @@ TEMPLATE:
 - https://shinytoyrobots.com - **shinytoyrobots** (Eclectic journaling and essays)
 - https://simeononsecurity.ch/ - **SimeonOnSecurity** (Security and Automation Blog)
 - https://verso.re/ - **Joan Calabrés** (Security Engineer)
+- https://gregbair.dev/ - **Greg Bair** (Developer and App Architect)
